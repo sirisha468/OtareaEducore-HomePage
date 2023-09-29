@@ -9,6 +9,8 @@
     background-color: white;
     position: fixed;
     top: 0px;
+     left:0;
+     right:0;
     padding: 10px 30px;
     justify-content: space-between;
     align-items: center;
